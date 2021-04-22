@@ -1,0 +1,9 @@
+
+{
+    "name": "onkar",
+    "course": "B.Tech CSE",
+    "batch": "2020-24",
+    "institution": "K.R. Mangalam University",
+    "skills_hobbies": ["Python","c","c++","carrom", "HTML/CSS", "Cricket", "mobile games", "Reading"],
+    "about": "I like to play."
+}
